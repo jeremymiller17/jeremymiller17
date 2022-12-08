@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremy Miller and I'm a recent Computer Science graduate.
 - 👀 I'm interested in Cyber Security(red and blue), Full Stack development, cloud development,  and DevOps
-- 🌱 I’m currently learning GoLang, and using Linux to participate in CTF environments.
+- 🌱 I’m currently learning C# + dotnet, and using Linux to participate in CTF environments.
 - 📫 How to reach me : TBD
 
 <!---
